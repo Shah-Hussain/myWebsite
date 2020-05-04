@@ -1,8 +1,8 @@
 body{margin:0; padding:0; box-sizing: border-box;}
  .bgimg{
 background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('images/header.jpg')
-; background-size: cover; background-attachment: fixed; height:99vh;
-width:100%; }
+; background-size: cover; background-attachment: fixed; height:100%;
+width:100%;padding-bottom: 250px; }
 
  .container img{height: 100px;}
   #logo{border:2px solid
@@ -25,7 +25,7 @@ sans-serif;letter-spacing: 3px; font-size:40px;}
 		content: "";
 		top: 0;
 		left: 0;
-		height: 100px;
+	
 		width: 50%;
 		background-color: #ffffff;
 	}
