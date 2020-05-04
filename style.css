@@ -1,0 +1,51 @@
+body{margin:0; padding:0; box-sizing: border-box;}
+ .bgimg{
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('images/header.jpg')
+; background-size: cover; background-attachment: fixed; height:99vh;
+width:100%; }
+
+ .container img{height: 100px;}
+  #logo{border:2px solid
+black;background-color:yellow;
+width:130px;border-radius:120px;height:130px;padding-left:15px; padding-top:
+10px;} 
+#logo img:hover{background-color:;}
+
+ h2{font-family: 'Anton',
+sans-serif;letter-spacing: 3px; font-size:40px;}
+
+ .bhover:hover{background-color:green;}
+.back{background-color: transparent;background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("images/4.jpg");
+		background-size: cover;
+		border:1px white;}
+		.logo img{height:150px;width:150px; border: 1px solid white;border-radius: 50%;padding:10px; 
+			
+	}
+	.bgimg:before{
+		content: "";
+		top: 0;
+		left: 0;
+		height: 100px;
+		width: 50%;
+		background-color: #ffffff;
+	}
+
+
+
+	.bg{background-color:rgb(0,0,0,0.4); border-radius: 10px;margin-top: 75px;}
+  .nav-link{font-size:17px;color:white;}
+  .nav-link:hover{background-color: #ffc107; border-radius: 5px; }
+  #Con{margin-top:20px;}
+  .display-4 {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 3.2;
+    color:white;}
+    .bor{border-bottom: 2px solid white;margin-top: 10px;
+    }
+   .image .image-left{height: 400px; transition: ease 2s all;}
+   .image  img:hover{transform: scale(1.1,1.1);transition: ease 2s all;}
+  .shadow{ box-shadow: 10px 10px 8px #888888;}
+  footer{height:80px;}
+
+
