@@ -2,7 +2,7 @@ body{margin:0; padding:0; box-sizing: border-box;over-flow:hidden;width:100%;}
  .bgimg{
 background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('images/header.jpg')
 ; background-size: cover; background-attachment: fixed; height:100%;
-width:100%;padding-bottom: 250px; }
+width:100%;padding-bottom: 200px; }
 
  .container img{height: 100px;}
   #logo{border:2px solid
